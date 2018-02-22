@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/rajivsahu10/git-log-UI/issues"
   },
-  "homepage": "https://github.com/rajivsahu10/git-log-UI#readme"
+  "homepage": "https://github.com/rajivsahu10/git-log-UI#readme",
+  "devDependencies": {
+    "devtron": "^1.4.0"
+  }
 }
